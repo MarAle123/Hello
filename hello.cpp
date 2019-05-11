@@ -2,7 +2,7 @@
 #include <cstdlib> // ??? system
 using namespace std;
 
-int main() 
-{ 
-	cout << "Hello"
+int main()
+{
+	cout << "Hello";
 }
