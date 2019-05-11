@@ -7,4 +7,5 @@ int main()
 	cout << "Hello";
 	cout << " World";
 	system("pause");
+	return 0; 
 }
